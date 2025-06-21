@@ -1,6 +1,6 @@
 image:
   repository: xuanhoa2772004/vdt-api
-  tag: 4.0
+  tag: 4.2
   pullPolicy: IfNotPresent
 
 
